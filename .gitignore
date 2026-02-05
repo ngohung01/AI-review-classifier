@@ -1,0 +1,15 @@
+venv/
+__pycache__/
+*.py[cod]
+
+models/
+downloads/
+.cache/
+
+.streamlit/config.toml
+.streamlit/static/
+
+.DS_Store
+Thumbs.db
+
+*.log
