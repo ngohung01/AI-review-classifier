@@ -30,7 +30,7 @@ This project is an **AI-driven Sentiment Analysis** tool specifically designed f
 1. **Clone the repository:**
 
    ```bash
-   git clone git@github.com:ngohung01/AI-review-classifier.git
+   git clone  https://github.com/ngohung01/AI-review-classifier.git
    cd review-classifier
    ```
 
